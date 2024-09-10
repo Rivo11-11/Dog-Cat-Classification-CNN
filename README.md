@@ -32,7 +32,7 @@ The `load_data` function processes images and labels, preparing them for model t
 
 The model training involves:
 - Creating a data augmentation pipeline using `ImageDataGenerator` to improve model generalization.
-- Training a deep learning model via CNN  convolution net (extracting features of image) Dense net (last layer a single neural netwrok sigmoid).
+- Training a deep learning model via CNN  convolution net (extracting features of image) Dense net (last layer a single neuron sigmoid).
 
 The training process includes:
 - Configuring and compiling the model.
